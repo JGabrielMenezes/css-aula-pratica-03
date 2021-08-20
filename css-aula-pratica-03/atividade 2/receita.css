@@ -1,0 +1,19 @@
+body{
+    background-color: wheat;
+}
+
+h1 {
+    text-transform:uppercase;
+    color: rgb(122, 103, 66);
+}
+
+p {font-style: italic;}
+
+#fd2 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+input, textarea{
+    border-radius: 6px;
+}
